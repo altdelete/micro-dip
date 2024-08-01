@@ -1,0 +1,106 @@
+# Node.js related
+node_modules/
+npm-debug.log
+yarn-error.log
+*.log
+
+# Logs
+logs
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE/editor related
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Build files
+dist/
+build/
+out/
+
+# Coverage directory used by testing tools
+coverage/
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript
+*.tsbuildinfo
+
+# Temporary files
+temp/
+tmp/
+
+# Optional npm cache directory
+.npm
+
+# Package-lock files (if using Yarn)
+package-lock.json
+yarn.lock
+
+# Optional eslint cache
+.eslintcache
+
+# Next.js build output
+.next/
+out/
+
+# Nuxt.js build output
+.nuxt/
+.nuxt-dist/
+
+# React Native
+.expo/
+.expo-shared/
+web-build/
+*.expo.*
+
+# Parcel cache
+.cache/
+.parcel-cache/
+
+# Sapper build / export
+__sapper__/
+
+# System files
+*.bak
+*.old
+*.swp
+*.temp
+*.tmp
+
+# ESLint Reports
+report.html
+
+# Stylelint Reports
+.stylelintcache
+
+# Mac specific files
+.AppleDouble
+.LSOverride
+
+# Caches and backup
+.cache/
+.pnpm-store/
+.pnp.*
+.pnp
+.cache/
+local/
+
+# Sentry CLI configuration
+.sentryclirc
